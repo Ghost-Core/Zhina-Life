@@ -1,3 +1,5 @@
+# Zhina-Life
+
 This project provides a Telegram bot for anonymous medical conversations between patients and doctors. The bot uses end-to-end encryption to ensure the privacy and security of the conversations, and provides a secure PDF containing the conversation history to the patient at the end of each conversation.
 
 ## Requirements
