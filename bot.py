@@ -4,6 +4,9 @@ from io import BytesIO
 from telethon.tl.types import InputPeerUser
 from pdfkit import PDFDocument
 from telegram.ext import Updater, MessageHandler, CommandHandler
+import flask
+import requests
+import json
 
 # Set the bot token and the doctor ID
 BOT_TOKEN = "<BOT_TOKEN>"

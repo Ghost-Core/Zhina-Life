@@ -1,6 +1,9 @@
 # Website and API code
 
 # Import the necessary libraries
+import flask
+import requests
+import json
 from flask import Flask, request
 import requests
 import pdfkit
